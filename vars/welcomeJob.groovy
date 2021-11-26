@@ -1,3 +1,3 @@
 def call(String name='User'){
-  echo "welcome $(name)"
+  echo "welcome ${name}"
   }
